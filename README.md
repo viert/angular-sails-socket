@@ -6,6 +6,8 @@ wrapping io.socket object for use with angularjs
 
 Simple just as angular $http!
 
+**For use with SailsJS 0.10.x**
+
 Usage:
 ```javascript
   angular.module('YourApplication', ['SailsSocket'])
